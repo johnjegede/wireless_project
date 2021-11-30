@@ -7,12 +7,12 @@ our project should be between 10 to 15 pages
 
 ## John
 
-Introduction
-Self Configuring schemes
+Introduction,
+Self Configuring schemes,
 Self Organizing schemes
 
 ## Hassan
 
-Background
-Self Healing schemes
+Background,
+Self Healing schemes,
 Conclusion
